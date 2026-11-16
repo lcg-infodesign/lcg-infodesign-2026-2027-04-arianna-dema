@@ -1,0 +1,21 @@
+region_id,regione,sigla,area,eventi_totali,pacifiche,con_intervento,violente,superficie_km2
+1,Valle d'Aosta,VDA,nord,7,7,0,0,3260.84
+2,Piemonte,PIE,nord,193,165,4,24,25386.73
+3,Liguria,LIG,nord,137,127,3,7,5417.62
+4,Lombardia,LOM,nord,520,496,11,13,23863.09
+5,Trentino-Alto Adige,TAA,nord,50,47,2,1,13604.71
+6,Veneto,VEN,nord,249,233,11,5,18355.24
+7,Friuli-Venezia Giulia,FVG,nord,51,45,1,5,7933.3
+8,Emilia-Romagna,EMR,nord,379,362,2,15,22501.81
+9,Toscana,TOS,centro,285,274,4,7,22989.8
+10,Umbria,UMB,centro,76,75,0,1,8464.2
+11,Marche,MAR,centro,100,99,1,0,9346.02
+12,Lazio,LAZ,centro,251,231,6,14,17239.37
+13,Abruzzo,ABR,sud,65,62,0,3,10831.72
+14,Molise,MOL,sud,20,20,0,0,4460.56
+15,Campania,CAM,sud,229,220,4,5,13675.72
+16,Puglia,PUG,sud,188,185,1,2,19542.7
+17,Basilicata,BAS,sud,40,39,0,1,10073.19
+18,Calabria,CAL,sud,62,60,1,1,15219.3
+19,Sicilia,SIC,sud,215,205,1,9,25835.31
+20,Sardegna,SAR,sud,78,76,1,1,24108.54

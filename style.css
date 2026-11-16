@@ -1,6 +1,9 @@
 html, body {
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background: #d43616;
+  -webkit-font-smoothing: antialiased;
 }
 
 canvas {
